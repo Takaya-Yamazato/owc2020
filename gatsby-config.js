@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'OWC-2020',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      ' 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’20) ',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
