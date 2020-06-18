@@ -5,66 +5,46 @@ image: /img/jumbotron.jpg
 heading: OWC’20
 subheading: 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC'20)
 mainpitch:
-  title: Why Kaldi
+  title: Optical wireless communications
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+  This is the ninth GLOBECOM workshops we successfully held in 2010, 2011, 2012, 2013, 2014, 2015, 2017, and 2018.  Our goal is to foster a community and relevant focused activities, and present state-of-the-art research and development results from academia and industry at an international level.  This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and ultraviolet communications (UVC) as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
+
 ---
+
+### Call for Submissions
+
+- [https://www.edas.info/newPaper.php?c=27652&track=103043](https://www.edas.info/newPaper.php?c=27652&track=103043)
+
+
+- [Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200614_4pages.pdf)
+
+### Important Dates
+
+|  |  |
+|------|-------|
+|Paper submission: | 15 July, 2020|
+|Notification of acceptance: | 1 September, 2020|
+|Final papers submission: |    1 October, 2020 |
+
+
+### History
+
+First held at Globecom 2010, Miami, USA, 6 – 10 December 2010
+
+Second held at Globecom 2011, Houston TX, USA, 5 December 2011
+
+[Third](http://www.bu.edu/smartlighting/optical-wireless-communications-workshop/) held at Globecom 2012, Anaheim, CA, USA, Dec 3, 2012
+
+[Fourth](https://www.ece.mcmaster.ca/~hranilovic/owc13/OWC_2013/Home.html) held at Globecom 2013, Atlanta, GA, USA, Dec 9, 2013
+
+[Fifth](http://www.bu.edu/smartlighting/5th-ieee-workshop-on-optical-wireless-communications-owc14/) held at Globecom 2014, Austin, TX, USA, Dec 8, 2014
+
+[Sixth](http://owcworkshop.ok.ubc.ca/) held at Globecom 2015, San Diego, CA, USA, Dec 6, 2015
+
+[Seventh](https://globecom2017.ieee-globecom.org/workshop/ws-11-7th-ieee-globecom-workshop-optical-wireless-communications-owc%e2%80%9917) held at Globecom 2017, Singapore, Singapore, Dec 8, 2017
+
+[Eighth](http://yamazato.ilas.nagoya-u.ac.jp/owc/index.html) held at Globecom 2018, Abu Dhabi, UAE, Dec 9, 2018
+
+[Ninth](https://globecom2020.ieee-globecom.org/workshop/ws-04-workshop-optical-wireless-communications-owc) will be held at Globecom 2020, Taipei, Taiwan, Monday, Dec 7, 2020 (Afternoon)

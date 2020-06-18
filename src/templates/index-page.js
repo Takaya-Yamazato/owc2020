@@ -3,8 +3,8 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Content, { HTMLContent } from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
@@ -13,8 +13,13 @@ export const IndexPageTemplate = ({
   subheading,
   mainpitch,
   description,
-  intro,
-}) => (
+  content, 
+  contentComponent
+}) => {
+  const PageContent = contentComponent || Content
+
+  return (
+
   <div>
     <div
       className="full-width-image-container margin-top-0"
@@ -82,17 +87,16 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
                 <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
+                  <div className="column is-10">
+                    <div className="section">
+                      <PageContent className="content" content={content} />
+                    </div>
                   </div>
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                  News and Announcements
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
@@ -108,7 +112,8 @@ export const IndexPageTemplate = ({
       </div>
     </section>
   </div>
-)
+ )
+}
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -117,24 +122,25 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+  content: PropTypes.string,
+  contentComponent: PropTypes.func,  
 }
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { markdownRemark: post } = data
 
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        contentComponent={HTMLContent}
+        image={post.frontmatter.image}
+        title={post.frontmatter.title}
+        heading={post.frontmatter.heading}
+        subheading={post.frontmatter.subheading}
+        mainpitch={post.frontmatter.mainpitch}
+        description={post.frontmatter.description}
+        intro={post.frontmatter.intro}
+        content={post.html}
       />
     </Layout>
   )
@@ -153,6 +159,7 @@ export default IndexPage
 export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      html
       frontmatter {
         title
         image {
@@ -169,20 +176,7 @@ export const pageQuery = graphql`
           description
         }
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
+
       }
     }
   }
