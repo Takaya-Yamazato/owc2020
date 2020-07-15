@@ -4,6 +4,7 @@ module.exports = {
     description:
       ' 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’20) ',
   },
+  pathPrefix: `/owc-2020`,  
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',

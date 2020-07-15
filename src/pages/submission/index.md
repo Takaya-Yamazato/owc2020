@@ -4,13 +4,13 @@ path: /submission
 title: Submission
 image: /img/jumbotron.jpg
 ---
-[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200614_4pages.pdf)
+[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715_4pages.pdf)
 
 ### IMPORTANT DATES
 
 |  |  |
 |------|-------|
-|Paper submission: | 15 July, 2020|
+|Paper submission: | <span style="color: red; ">1 August, 2020 (Extended)</span> |
 |Notification of acceptance: | 1 September, 2020|
 |Final papers submission: |    1 October, 2020 |
 

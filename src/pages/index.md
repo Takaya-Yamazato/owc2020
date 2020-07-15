@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
 description: >-
-  This is the ninth GLOBECOM workshops we successfully held in 2010, 2011, 2012, 2013, 2014, 2015, 2017, and 2018.  Our goal is to foster a community and relevant focused activities, and present state-of-the-art research and development results from academia and industry at an international level.  This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and ultraviolet communications (UVC) as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
+  This half-day workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results. 
 
 ---
 
@@ -18,13 +18,13 @@ description: >-
 - [https://www.edas.info/newPaper.php?c=27652&track=103043](https://www.edas.info/newPaper.php?c=27652&track=103043)
 
 
-- [Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200614_4pages.pdf)
+- [Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715_4pages.pdf)
 
 ### Important Dates
 
 |  |  |
 |------|-------|
-|Paper submission: | 15 July, 2020|
+|Paper submission: | <span style="color: red; ">1 August, 2020 (Extended)</span> |
 |Notification of acceptance: | 1 September, 2020|
 |Final papers submission: |    1 October, 2020 |
 

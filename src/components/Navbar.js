@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
                 Program
               </Link>
               <Link className="navbar-item" to="/committee">
-                Committees
+                Committee
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
