@@ -18,15 +18,15 @@ description: >-
 - [https://www.edas.info/newPaper.php?c=27652&track=103043](https://www.edas.info/newPaper.php?c=27652&track=103043)
 
 
-- [Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715_4pages.pdf)
+- [Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715.pdf)
 
 ### Important Dates
 
 |  |  |
 |------|-------|
-|Paper submission: | <span style="color: red; ">1 August, 2020 (Extended)</span> |
-|Notification of acceptance: | 1 September, 2020|
-|Final papers submission: |    1 October, 2020 |
+|Paper submission: | <span style="color: red; ">1 August 2020 (Extended)</span> |
+|Notification of acceptance: | 1 September 2020|
+|Final papers submission: |    1 October 2020 |
 
 
 ### History

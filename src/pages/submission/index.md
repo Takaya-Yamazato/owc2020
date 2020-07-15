@@ -4,7 +4,7 @@ path: /submission
 title: Submission
 image: /img/jumbotron.jpg
 ---
-[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715_4pages.pdf)
+[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715.pdf)
 
 ### IMPORTANT DATES
 
