@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Deadline extension announcement!
-date: 2020-7-15T20:58:10.000Z
+date: 2020-7-16T12:59:10.000Z
 featuredpost: false
 featuredimage: /img/og-image.jpg
 description: New deadline is 1 August 2020.
