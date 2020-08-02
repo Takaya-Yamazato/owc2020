@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The deadline extention
+title: New submission deadline 8/14
 date: 2020-8-2T13:30:10.000Z
 featuredpost: true
 featuredimage: /img/og-image.jpg
