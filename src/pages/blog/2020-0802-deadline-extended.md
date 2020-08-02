@@ -22,7 +22,7 @@ Again, we welcome your paper submission for OWC'20 and look forward to receiving
 
 To submit your paper, please go to https://www.edas.info/N27652. 
 
-[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200715.pdf)
+[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200814.pdf)
 
 ### IMPORTANT DATES
 
