@@ -31,6 +31,7 @@ intro:
 -	Luis Nero Alves, University of Aveiro, Portugal 
 -	Shlomi Arnon, Ben-Gurion University of the Negev, Israel
 -	Bastien Béchadergue, OLEDCOMM, France 
+- Chedlia BEN NAILA, Nagoya University, JAPAN
 -	Tarik Borogovac, Boston University, USA
 -	Maite Brandt-Pearce, Univ. of Virginia, USA
 -	Dominic O’Brien, Oxford University, UK
