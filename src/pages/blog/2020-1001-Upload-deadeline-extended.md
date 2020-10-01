@@ -24,7 +24,9 @@ https://ieeeexpressconferencepublishing.ieee.org/confid/glo20ws/
 
 Conference id: glo20ws
 
-Please note that you must be registered for IEEE GLOBECOM 2020 Workshops to upload your paper. Thank you.
+Please note that you must be registered for IEEE GLOBECOM 2020 Workshops to upload your paper. 
+
+Thank you.
 
 ### IMPORTANT DATES
 
