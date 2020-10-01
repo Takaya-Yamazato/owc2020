@@ -12,7 +12,7 @@ image: /img/jumbotron.jpg
 |------|-------|
 |Paper submission: | 14 August, 2020 (firm) |
 |Notification of acceptance: | 15 September, 2020|
-|Final papers submission: | <span style="color: red; ">1 October, 2020</span> |
+|Final papers submission: | <span style="color: red; ">6 October, 2020</span> |
 
 
 

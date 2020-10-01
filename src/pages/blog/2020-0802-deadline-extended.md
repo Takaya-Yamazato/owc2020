@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: New submission deadline 8/14
 date: 2020-8-2T13:30:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/og-image.jpg
 description: The deadline is 14 August 2020.
 tags:

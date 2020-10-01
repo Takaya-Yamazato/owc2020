@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Final paper submission
 date: 2020-9-29T13:30:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/og-image.jpg
 description: Final paper submission.
 tags:
