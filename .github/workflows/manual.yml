@@ -21,7 +21,17 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           gatsby-args: --prefix-paths
-      
+
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+        
+      - name: Build Project
+        run: |
+          npm install
+          npm run build
+
       - name: List output files
         run: ls -laFG
         working-directory: ${{env.working-directory}} 
