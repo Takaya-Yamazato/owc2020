@@ -26,7 +26,7 @@ jobs:
       
       - name: List output files
         run: ls -laFG
-        working-directory: ${{env.working-directory}} 
+        working-directory: ${{working-directory}} 
       
       - uses: actions/checkout@v2
       - name: rsync deployments
