@@ -13,13 +13,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      REPO: https://${{github.actor}}:${{secrets.ACCESS_TOKEN}}@github.com/${{github.repository}}.git
     steps:
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           gatsby-args: --prefix-paths
-        
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{github.event.pull_request.head.ref}}
+      - run: date >> README.md
+      - name: commit manifests and push
+        run: |
+          git config --global user.email "yamazato@ilas.nagoya-u.ac.jp"
+          git config --global user.name "Takaya-Yamazato"
+          git add .
+          git commit -m 'modify README' && git push ${REPO} HEAD:${{github.event.pull_request.head.ref}} || true
       - name: List output files
         run: ls -laFG public/
       
@@ -28,7 +39,7 @@ jobs:
         uses: burnett01/rsync-deployments@4.1
         with:
           switches: -avzr --delete
-#          path: public/
+          path: public/
           remote_path: /var/www/yamazato/owc-2020
           remote_host: katayama.nuee.nagoya-u.ac.jp
           remote_user: yamazato
