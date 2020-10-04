@@ -1,0 +1,41 @@
+# This is a basic workflow that is manually triggered
+
+name: Deploy to freedom
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js 12.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    
+    - name: Build Project
+      run: |
+        yarn install
+        yarn build
+        
+    - name: List output files
+      run: ls -a
+      
+    - uses: actions/checkout@v2
+      
+    - name: rsync deployments
+      uses: burnett01/rsync-deployments@4.1
+      with:
+        switches: -avzr --delete
+        path: public
+        remote_path: /var/www/yamazato/owc-2020
+        remote_host: freedoma.katayama.nuee.nagoya-u.ac.jp
+        remote_user: yamazato
+        remote_key: ${{ secrets.DEPLOY_KEY }}
