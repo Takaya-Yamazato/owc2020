@@ -33,7 +33,7 @@ jobs:
       uses: burnett01/rsync-deployments@4.1
       with:
         switches: -avzr --delete
-        path: /home/runner/work/owc-2020/owc-2020/public
+        path: public
         remote_path: /var/www/yamazato/owc-2020
         remote_host: katayama.nuee.nagoya-u.ac.jp
         remote_user: yamazato
