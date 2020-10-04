@@ -22,8 +22,6 @@ jobs:
     
     - name: Build Project
       run: |
-#        yarn install
-#        yarn build
          npm install
          npm run build
         
