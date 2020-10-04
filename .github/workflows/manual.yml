@@ -9,7 +9,9 @@ on:
   push:
     branches:
       - master
-
+defaults:
+  run:
+    working-directory: web
 jobs: 
   build:
     runs-on: ubuntu-latest
@@ -31,7 +33,7 @@ jobs:
         uses: burnett01/rsync-deployments@4.1
         with:
           switches: -avzr --delete
-          path: ./public/
+          path: web/public/
           remote_path: /var/www/yamazato/owc-2020
           remote_host: katayama.nuee.nagoya-u.ac.jp
           remote_user: yamazato
