@@ -28,7 +28,14 @@ jobs:
     - name: List output files
       run: ls -a
       
+    - uses: actions/checkout@v2
     - name: rsync deployments
-  # You may pin to the exact commit or the version.
-  # uses: contention/rsync-deployments@980b08d70e94c4ac0169ee5c5acc9ace2fe8ccd4
+      uses: burnett01/rsync-deployments@4.1
+      with:
+        switches: -avzr --delete
+        path: public
+        remote_path: /var/www/yamazato/owc-2020
+        remote_host: katayama.nuee.nagoya-u.ac.jp
+        remote_user: yamazato
+        remote_key: ${{ secrets.DEPLOY_KEY }}
   
