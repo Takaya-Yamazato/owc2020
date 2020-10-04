@@ -26,6 +26,7 @@ jobs:
         yarn build
         
     - name: List output files
+      run: pwd
       run: ls -a
       
     - uses: actions/checkout@v2
