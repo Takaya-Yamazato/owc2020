@@ -22,8 +22,10 @@ jobs:
     
     - name: Build Project
       run: |
-        yarn install
-        yarn build
+#        yarn install
+#        yarn build
+         npm install
+         npm run build
         
     - name: List output files
       run: ls -laFG public/
