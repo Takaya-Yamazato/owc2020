@@ -27,7 +27,6 @@ jobs:
         
     - name: List output files
       run: pwd
-      run: ls -a
       
     - uses: actions/checkout@v2
     - name: rsync deployments
