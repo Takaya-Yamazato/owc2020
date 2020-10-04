@@ -36,6 +36,6 @@ jobs:
         switches: -avzr --delete
         path: public
         remote_path: /var/www/yamazato/owc-2020
-        remote_host: freedoma.katayama.nuee.nagoya-u.ac.jp
+        remote_host: freedom.katayama.nuee.nagoya-u.ac.jp
         remote_user: yamazato
         remote_key: ${{ secrets.DEPLOY_KEY }}
