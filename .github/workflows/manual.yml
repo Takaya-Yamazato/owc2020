@@ -3,7 +3,7 @@
 name: Deploy to freedom
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
+# or API.  Check working directory
 
 on:
   push:
