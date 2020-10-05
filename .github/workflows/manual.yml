@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Deploy to freedom
+name: Gatsby build and ｄeploy to a server
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.  Check working directory
@@ -40,8 +40,8 @@ jobs:
         with:
           switches: -avzr --delete
           path: public/
-          remote_path: /var/www/yamazato/owc-2020
-          remote_host: freedom.katayama.nuee.nagoya-u.ac.jp
-          remote_user: yamazato
+          remote_path: ${{ secrets.REMOTE_PATH }}
+          remote_host: ${{ secrets.REMOTE_HOST }}
+          remote_user: ${{ secrets.REMOTE_USER }}
           remote_key: ${{ secrets.ID_ECDSA_FREEDOM }}
   
