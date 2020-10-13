@@ -32,8 +32,7 @@ jobs:
       - name: Build Project
         run: |
           npm install
-          npm run clean
-          gatsby build --prefix-paths
+          npm run build
 # 確認のためのリスト表示　必要なければ削除  
       - name: List output files
         run: ls -laFG
