@@ -11,7 +11,7 @@ image: /img/jumbotron.jpg
 ### OWC and LiFi Systems (Chair: Takaya Yamazato)
 | | | 
 |---|-----------|
-|9:00-9:15 | A Novel Machine Learning-Based Handover Scheme for Hybrid LiFi and WiFi Networks|
+|9:00-9:15 | A Novel Machine Learning-Based Handover Scheme for Hybrid LiFi and WiFi Networks <br>*Xiping Wu, Dominic O'Brien*|
 |9:15-9:30|Illuminance Constrained Emission Pattern Optimization in Indoor VLC Networks|
 |9:30-9:45|Spatial Channel Hardening For LiFi Networks|
 |9:45-10:00|Leverage smart manufacturing using enhanced lighting|
