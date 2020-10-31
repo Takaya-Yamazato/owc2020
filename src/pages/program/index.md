@@ -4,7 +4,6 @@ path: /program
 title: Program
 image: /img/jumbotron.jpg
 ---
-<br>Below is a tentative program.<br>
 
 -------------
 ## Session I 9:00-10:30
