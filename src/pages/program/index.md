@@ -27,11 +27,11 @@ image: /img/jumbotron.jpg
 
 |  |  |
 |---|----------|
-|11:00-11:15|SiPM receivers and future VLC systems<br>*Wajahat Ali, Grahame Faulkner, Zubair Ahmed, William Matthews, Dominic O'Brien, Stephen Collins*|
+|11:00-11:15|Silicon photomultiplier receivers and future VLC systems<br>*Wajahat Ali, Grahame Faulkner, Zubair Ahmed, William Matthews, Dominic O'Brien, Stephen Collins*|
 |11:15-11:30|Optical OFDM and SiPM Receivers<br>*Cuiwei He, Zubair Ahmed, Stephen Collins*|
 |11:30-11:45|Adaptive MIMO-VLC System for High Data Rate Communications<br>*Fangxiao Dong, Ravinder Singh, Dominic O'Brien*|
 |11:45-12:00|A Mixed Orthogonal Frequency Division Multiplexing (X-OFDM) Waveform for Optical Wireless Communication<br>*Xu Li, Jingjing Huang, Yibo Lyu, Jiajin Luo, Zhang Junping*|
-|12:00-12:15|Optimized CSK constellation for underwater SLIPT<br>*Takuma Kogo, Yusuke Kozawa, Hiromasa Habuchi*|
+|12:00-12:15|Chlorophyll concentration-based CSK constellation point optimization for Underwater SLIPT using Time Splitting receiver<br>*Takuma Kogo, Yusuke Kozawa, Hiromasa Habuchi*|
 ----------------
 
 ### Lunch 12:30-2:00pm
