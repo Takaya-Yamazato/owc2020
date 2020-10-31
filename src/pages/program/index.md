@@ -42,7 +42,7 @@ image: /img/jumbotron.jpg
 
 |  |  |
 |--|--|
-|2:00-2:15|Distributed MIMO Experiment Using LiFi Over Plastic Optical Fiber<br>*Sepideh Mohammadi Kouhini, Sreelal Maravanchery Mana, Ronald Freund, Volker Jungnickel, Carina Barbio, Eduward Tangdiongga, Thiago Elias B Cunha, Xiong Deng, Jean-Paul M. G. Linnartz*|
+|2:00-2:15|Distributed MIMO Experiment Using LiFi Over Plastic Optical Fiber<br>*Sepideh Mohammadi Kouhini, Sreelal Maravanchery Mana, Ronald Freund, Volker Jungnickel, <br>Carina Barbio, Eduward Tangdiongga, Thiago Elias B Cunha, Xiong Deng, Jean-Paul M. G. Linnartz*|
 |2:15-2:30|Performance Evaluation of Range Estimation for Image Sensor Communication Using Phase-only Correlation<br>*Ruiyi Huang, Masayuki Kinoshita, Takaya Yamazato, Hiraku Okada, <br>Koji Kamakura, Shintaro Arai, Tomohiro Yendo, Toshiaki Fujii*|
 |2:30-2:45|Implementation Experiment of a Rotary LED Transmitter for Improving the Transmission Rate for Image Sensor Communication<br>*Shintaro Arai, Zhengqiang Tang, Akinori Nakayama, Haruhiko Takada, Tomohiro Yendo*|
 |2:45-3:00|3-D Indoor Visible Light Positioning (VLP) System based on Linear Regression or Kernel Ridge Regression Algorithms<br>*Dong-Chang Lin, Yu-Chun Wu, Chong-You Hong, Shao-Hua Song, Yun-Shen Lin, Yang Liu, Chien-Hung Yeh, Chi-Wai Chow*|
