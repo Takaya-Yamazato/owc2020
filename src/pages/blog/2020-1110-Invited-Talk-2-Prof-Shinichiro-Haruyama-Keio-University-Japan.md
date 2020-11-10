@@ -22,7 +22,7 @@ On the other hand, the free-space optical communication system for rail-guided i
 
 # Prof. Shinichiro Haruyama, Keio University, Japan
 
-![Prof. Shinichiro Haruyama, Keio University, Japan](/img/haruyama_portrait3.jpg)
+![Prof. Shinichiro Haruyama, Keio University, Japan](/owc-2020/img/haruyama_portrait3.jpg)
 
 ## Short Bio
 

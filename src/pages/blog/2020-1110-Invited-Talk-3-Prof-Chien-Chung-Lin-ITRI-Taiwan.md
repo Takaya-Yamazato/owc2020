@@ -20,7 +20,7 @@ Enabling systems are studied and developed for high rate PD communication (Li-Fi
 
 # Prof. Chien-Chung Lin, ITRI, Taiwan
 
-![Prof. Chien-Chung Lin, ITRI, Taiwan](/img/cclin-pic-ieee.jpg)
+![Prof. Chien-Chung Lin, ITRI, Taiwan](/owc-2020/img/cclin-pic-ieee.jpg)
 
 ## Short Bio
 
