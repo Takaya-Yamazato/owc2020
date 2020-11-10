@@ -61,6 +61,6 @@ image: /img/jumbotron.jpg
 |--|--|
 |4:00-4:20|Invited Talk 1 (Invited Speaker: Dr. Jean-Paul Linnartz, Signify, Netherlands)|
 |4:20-4:40|Invited Talk 2 (Invited Speaker: Prof. Shinichiro Haruyama, Keio University, Japan)|
-|4:40-5:00|Invited Talk 3 (Invited Speaker: Prof. Chien-Chung Lin, ITRI, Taiwan)|
+|4:40-5:00|Invited Talk 3: Visible Light Communication System for Indoor Positioning and Secure Data Transmission Application<br>*Prof. Chien-Chung Lin, ITRI, Taiwan*|
 |5:00-5:30|Panel Discussion|
 ------------------------
