@@ -4,17 +4,23 @@ path: /program
 title: Program
 image: /img/jumbotron.jpg
 ---
+- MONDAY, 7 DECEMBER 2020 (FULL DAY)
+- [WS-01: IEEE GLOBECOM 2020 Workshop on Optical Wireless Communications (OWC)](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
+
 ## Invited Talk 1 
+- 4:00-4:20
 ### Dr. Jean-Paul Linnartz, Signify, Netherlands
 #### Title: TBD
 
 ## Invited Talk 2
+- 4:40-5:00<br>
 ![Prof. Shinichiro Haruyama, Keio University, Japan](/owc-2020/img/haruyama_portrait3.jpg)
 ### Prof. Shinichiro Haruyama, Keio University, Japan
 #### Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles
 - [Abstract and short bio](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/blog/2020-1110-Invited-Talk-2-Prof-Shinichiro-Haruyama-Keio-University-Japan/)
 
 ## Invited Talk 3
+- 4:40-5:00<br>
 ![Prof. Chien-Chung Lin, ITRI, Taiwan](/owc-2020/img/cclin-pic-ieee.jpg)
 ### Prof. Chien-Chung Lin, ITRI, Taiwan
 #### Visible Light Communication System for Indoor Positioning and Secure Data Transmission Application
