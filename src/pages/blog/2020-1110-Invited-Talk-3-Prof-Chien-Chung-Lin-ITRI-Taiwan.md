@@ -6,7 +6,7 @@ featuredpost: true
 featuredimage: /img/cclin-pic-ieee.jpg
 description: Invited Talk 3 - Visible Light Communication System for Indoor Positioning and Secure Data Transmission Application, Prof. Chien-Chung Lin, ITRI, Taiwan
 tags:
-  - Invited Talk 3 
+  - Invited Talks and Panel Discussion
   - Visible Light Communication System for Indoor Positioning and Secure Data Transmission Application
   - Prof. Chien-Chung Lin, ITRI, Taiwan
   - Globecom 2020

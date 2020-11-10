@@ -6,7 +6,7 @@ featuredpost: true
 featuredimage: /img/haruyama_portrait3.jpg
 description: Invited Talk 2 - Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles, Prof. Shinichiro Haruyama, Keio University, Japan
 tags:
-  - Invited Talk 2
+  - Invited Talks and Panel Discussion
   - Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles
   - Prof. Shinichiro Haruyama, Keio University, Japan
   - Globecom 2020
