@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Final paper submission (dealine extended)
 date: 2020-10-1T13:30:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/og-image.jpg
 description: Final paper submission (deadline extended)
 tags:
