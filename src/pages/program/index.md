@@ -29,8 +29,9 @@ image: /img/jumbotron.jpg
 - [Abstract and short bio](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/blog/2020-1110-Invited-Talk-3-Prof-Chien-Chung-Lin-ITRI-Taiwan/)
 
 ## Panel Discussion (Live)
-- 5:00-5:30<br>
+- 5:00-5:30<br><br>
 
+-------------
 -------------
 ## Session I 9:00-10:30
 ### OWC and LiFi Systems (Chair: Takaya Yamazato)
