@@ -4,7 +4,7 @@ title: Invited Talk 1 - Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and S
 date: 2020-11-10T13:30:10.000Z
 featuredpost: true
 featuredimage: /img/haruyama_portrait3.jpg
-description: Invited Talk 2 - Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles, Prof. Shinichiro Haruyama, Keio University, Japan
+description: Invited Talk 1 - Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference., Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands
 tags:
   - Invited Talks and Panel Discussion
   - Innovations in LED Wireless Communication Systems
@@ -13,8 +13,7 @@ tags:
 ---
 ## Title
 
-### Innovations in LED Wireless Communication Systems
-#### Reviewing technical innovations that may make a difference.
+### Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference.
  
 
 ### Abstract

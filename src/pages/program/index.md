@@ -11,8 +11,7 @@ image: /img/jumbotron.jpg
 - 4:00-4:20
 ![Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands](/owc-2020/img/JPL-in-oostenrijk.jpg)
 ### Dr. Jean-Paul Linnartz, Signify, Netherlands
-#### Title: Innovations in LED Wireless Communication Systems
-Reviewing technical innovations that may make a difference.
+#### Title: Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference.
 - [Abstract and short bio]
 
 ## Invited Talk 2
