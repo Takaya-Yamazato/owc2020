@@ -30,6 +30,7 @@ image: /img/jumbotron.jpg
 
 ## Panel Discussion (Live)
 - 5:00-5:30<br>
+
 -------------
 ## Session I 9:00-10:30
 ### OWC and LiFi Systems (Chair: Takaya Yamazato)
