@@ -8,7 +8,7 @@ image: /img/jumbotron.jpg
 - [WS-01: IEEE GLOBECOM 2020 Workshop on Optical Wireless Communications (OWC)](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
 
 ## Invited Talk 1 
-- 4:00-4:20
+- 4:00-4:20<br>
 ![Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands](/owc-2020/img/JPL-in-oostenrijk.jpg)
 ### Dr. Jean-Paul Linnartz, Signify, Netherlands
 #### Title: Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference.
