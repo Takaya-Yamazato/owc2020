@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Invited Talk 1 - Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands
 date: 2020-11-10T13:30:10.000Z
 featuredpost: true
-featuredimage: /img/haruyama_portrait3.jpg
+featuredimage: /img/JPL-in-oostenrijk.jpg
 description: Invited Talk 1 - Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference., Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands
 tags:
   - Invited Talks and Panel Discussion
