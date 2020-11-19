@@ -83,7 +83,7 @@ Reviewing technical innovations that may make a difference.
 
 |  |  |
 |--|--|
-|4:00-4:20|Invited Talk 1 (Invited Speaker: Dr. Jean-Paul Linnartz, Signify, Netherlands)|
+|4:00-4:20|Invited Talk 1 : Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference.<br>*Dr. Jean-Paul Linnartz, Signify, Netherlands)*|
 |4:20-4:40|[Invited Talk 2: Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/blog/2020-1110-Invited-Talk-2-Prof-Shinichiro-Haruyama-Keio-University-Japan/)<br>*Prof. Shinichiro Haruyama, Keio University, Japan*|
 |4:40-5:00|[Invited Talk 3: Visible Light Communication System for Indoor Positioning and Secure Data Transmission Application](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/blog/2020-1110-Invited-Talk-3-Prof-Chien-Chung-Lin-ITRI-Taiwan/)<br>*Prof. Chien-Chung Lin, ITRI, Taiwan*|
 |5:00-5:30|Panel Discussion|
