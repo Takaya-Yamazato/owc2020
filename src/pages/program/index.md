@@ -7,21 +7,21 @@ image: /img/jumbotron.jpg
 - MONDAY, 7 DECEMBER 2020 (FULL DAY)
 - [WS-01: IEEE GLOBECOM 2020 Workshop on Optical Wireless Communications (OWC)](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
 
-## Invited Talk 1 (Live talk)
+## Invited Talk 1 (Live)
 - 4:00-4:20<br>
 ![Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands](/owc-2020/img/JPL-in-oostenrijk.jpg)
 ### Dr. Jean-Paul Linnartz, Signify, Netherlands
 #### Innovations in LED Wireless Communication Systems - Reviewing technical innovations that may make a difference.
 - [Abstract and short bio](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/blog/2020-1110-Invited-Talk-1-Prof-Dr-Ir-Jean-Paul-Linnartz/)
 
-## Invited Talk 2 (Live talk)
+## Invited Talk 2 (Live)
 - 4:20-4:40<br>
 ![Prof. Shinichiro Haruyama, Keio University, Japan](/owc-2020/img/haruyama_portrait3.jpg)
 ### Prof. Shinichiro Haruyama, Keio University, Japan
 #### Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles
 - [Abstract and short bio](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/blog/2020-1110-Invited-Talk-2-Prof-Shinichiro-Haruyama-Keio-University-Japan/)
 
-## Invited Talk 3 (Live talk)
+## Invited Talk 3 (Live)
 - 4:40-5:00<br>
 ![Prof. Chien-Chung Lin, ITRI, Taiwan](/owc-2020/img/cclin-pic-ieee.jpg)
 ### Prof. Chien-Chung Lin, ITRI, Taiwan
@@ -79,7 +79,7 @@ image: /img/jumbotron.jpg
 
 ---------------
 
-## Session IV 4:00-5:30
+## Session IV 4:00-5:30 (Live)
 ### Invited Talks and Panel Discussion (Chair: Volker Jungnickel)
 
 |  |  |
