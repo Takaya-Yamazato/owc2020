@@ -9,11 +9,14 @@ image: /img/jumbotron.jpg
 
 ## Invited Talk 1 
 - 4:00-4:20
+![Prof. Dr. Ir. Jean-Paul Linnartz, Signify Research and Signify LiFi systems, The Netherlands](/owc-2020/img/JPL-in-oostenrijk.jpg)
 ### Dr. Jean-Paul Linnartz, Signify, Netherlands
-#### Title: TBD
+#### Title: Innovations in LED Wireless Communication Systems
+Reviewing technical innovations that may make a difference.
+- [Abstract and short bio]
 
 ## Invited Talk 2
-- 4:40-5:00<br>
+- 4:20-4:40<br>
 ![Prof. Shinichiro Haruyama, Keio University, Japan](/owc-2020/img/haruyama_portrait3.jpg)
 ### Prof. Shinichiro Haruyama, Keio University, Japan
 #### Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles
