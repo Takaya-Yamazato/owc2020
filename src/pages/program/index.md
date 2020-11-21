@@ -40,7 +40,7 @@ image: /img/jumbotron.jpg
 |9:00-9:15 | A Novel Machine Learning-Based Handover Scheme for Hybrid LiFi and WiFi Networks<br>*Xiping Wu, Dominic O'Brien*|
 |9:15-9:30|Illuminance Constrained Emission Pattern Optimization in Indoor VLC Networks<br>*Iman Abdalla, Michael Rahaim, Thomas DC Little*|
 |9:30-9:45|Spatial Channel Hardening For LiFi Networks<br>*Jona Beysens, Qing Wang, Sofie Pollin*|
-|9:45-10:00|Leverage smart manufacturing using enhanced lighting<br>*Marcel Müller, Daniel Behnke, Patrick-Benjamin Bök, Christoph Kottke, <br>Kai Lennert Bober, Volker Jungnickel*|
+|9:45-10:00|Leverage LiFi in Smart Manufacturing<br>*Marcel Müller, Daniel Behnke, Patrick-Benjamin Bök, Christoph Kottke, <br>Kai Lennert Bober, Volker Jungnickel*|
 |10:00-10:15|Integration of Optical Wireless Communication with 5G Systems<br>*Taner Metin, Marius Corici, Marc Emmelmann, Volker Jungnickel, <br>Christoph Kottke, Marcel Müller*|
 ------------
 
