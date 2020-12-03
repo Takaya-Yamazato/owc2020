@@ -15,6 +15,8 @@ tags:
 
 ### Visible Light Communication System for Indoor Positioning and Secure Data Transmission Application
 
+<iframe src="https://player.vimeo.com/video/486797140" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Abstract
 Enabling systems are studied and developed for high rate PD communication (Li-Fi), low rate PD communication (Light-ID), and optical camera communication (OCC). In this talk, we will demonstrate three VLC systems developed by ITRI. The first demonstration is 110Mbit/s Li-Fi system which integrates a FPGA-based optical-OFDM transceiver with 16-QAM modulation scheme and a 6dB 50MHz modulator for low-bandwidth phosphor-converted (PC) LEDs. In this Li-Fi system, we also replace the PC-LEDs with PC-LDs to extend the bandwidth and the transmission rate of 1027Mbit/s has been achieved. The second system is a clinical-grade Light-ID server-based indoor positioning system with a machine-learning algorithm to achieve 30cm of accuracy and 95% of precision. This system has been conducted in a hospital for asset management to improve nurse shift efficiency The third system is a client-based indoor positioning system embedded the OCC demodulation scheme in mobile device. The smart phones or tablets could be integrated with shopping or autonomous carts to provide location-based-services (LBS) for personalized precision marketing, product navigation, commodity replenishment and picking in the retail stores.
 

@@ -15,6 +15,8 @@ tags:
 
 ### Two New Free-Space Optical Communication Technologies for Trains and Rail-Guided Industrial Vehicles
 
+<iframe src="https://player.vimeo.com/video/486796876" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Abstract
 We propose two new free-space optical communication systems: one for trains, and the other for rail-guided industrial vehicles. 
 The free-space optical communication system for trains uses a narrow laser beam and a beam scanner in order to do acquisition, stable tracking, and fast handover for links between the ground and a train.  
