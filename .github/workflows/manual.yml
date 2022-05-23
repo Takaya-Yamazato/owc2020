@@ -9,35 +9,35 @@ on:
       - master
 
 # 以下，jobs の定義
-jobs: 
-# 「build」という名前のジョブを定義
+jobs:
+  # 「build」という名前のジョブを定義
   build:
-# ubunts の最新版を指定
+    # ubunts の最新版を指定
     runs-on: ubuntu-latest
 
-# 実行する処理やコマンドを指定
+    # 実行する処理やコマンドを指定
     steps:
-# レポジトリからの checkout を実行
+      # レポジトリからの checkout を実行
       - uses: actions/checkout@v2
-#      - uses: enriikke/gatsby-gh-pages-action@v2
-#        with:
-#          access-token: ${{ secrets.ACCESS_TOKEN }}
-#          gatsby-args: --prefix-paths
-# Node のセットアップ
-      - name: Use Node.js 12.x
+      #      - uses: enriikke/gatsby-gh-pages-action@v2
+      #        with:
+      #          access-token: ${{ secrets.ACCESS_TOKEN }}
+      #          gatsby-args: --prefix-paths
+      # Node のセットアップ
+      - name: Use Node.js 15.x
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
-# Node の実行（npm install, npm run build）        
+          node-version: "15.x"
+      # Node の実行（npm install, npm run build）
       - name: Build Project
         run: |
           yarn
           npm run build
-# 確認のためのリスト表示　必要なければ削除  
+      # 確認のためのリスト表示　必要なければ削除
       - name: List output files
         run: ls -laFG
-      
-# rsync の設定
+
+      # rsync の設定
       - name: rsync deployments
         uses: burnett01/rsync-deployments@4.1
         with:
@@ -47,4 +47,3 @@ jobs:
           remote_host: ${{ secrets.REMOTE_HOST }}
           remote_user: ${{ secrets.REMOTE_USER }}
           remote_key: ${{ secrets.ID_ECDSA_FREEDOM }}
-  
