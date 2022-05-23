@@ -13,7 +13,7 @@ export const CommitteePageTemplate = ({ image, title, heading, description, intr
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/jumbotron.jpg')`,
+          backgroundImage: `url('/owc2020/img/jumbotron.jpg')`,
         }}
       >
         <h2
