@@ -14,7 +14,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('../img/jumbotron.jpg')`,
+          backgroundImage: `url('/img/jumbotron.jpg')`,
         }}
       >
         <div
