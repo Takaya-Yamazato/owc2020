@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, withPrefix } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
@@ -12,7 +12,7 @@ export const AboutPageTemplate = ({ title, image, content, contentComponent }) =
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/owc2020/img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}/img/jumbotron.jpg')`,
         }}
       >
         <h2
