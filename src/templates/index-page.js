@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql } from "gatsby";
+import { Link, graphql, withPrefix } from "gatsby";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
@@ -14,7 +14,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/owc2020/img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
         }}
       >
         <div

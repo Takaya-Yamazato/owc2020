@@ -12,7 +12,7 @@ export const AboutPageTemplate = ({ title, image, content, contentComponent }) =
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix("/")}/img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
         }}
       >
         <h2

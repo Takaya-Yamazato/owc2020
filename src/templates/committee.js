@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, withPrefix } from "gatsby";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import Content, { HTMLContent } from "../components/Content";
@@ -13,7 +13,7 @@ export const CommitteePageTemplate = ({ image, title, heading, description, intr
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/owc2020/img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
         }}
       >
         <h2
