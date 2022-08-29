@@ -13,7 +13,6 @@ const CommitteePagePreview = ({ entry, getAsset }) => {
       heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
       intro={{ blurbs }}
-
     />
   )
 }
