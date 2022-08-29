@@ -24,15 +24,15 @@ jobs:
       #          access-token: ${{ secrets.ACCESS_TOKEN }}
       #          gatsby-args: --prefix-paths
       # Node のセットアップ
-      - name: Use Node.js 15.x
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v1
         with:
-          node-version: "15.x"
+          node-version: "16.x"
       # Node の実行（npm install, npm run build）
       - name: Build Project
         run: |
           yarn
-          npm run build
+          yarn run build
       # 確認のためのリスト表示　必要なければ削除
       - name: List output files
         run: ls -laFG
