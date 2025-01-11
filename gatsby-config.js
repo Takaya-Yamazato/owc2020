@@ -6,6 +6,7 @@ module.exports = {
   },
   pathPrefix: `/owc2020`,
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-image`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
