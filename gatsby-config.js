@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'OWC-2020',
     description:
-      ' 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’20) ',
+      '9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’20)',
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2020`,
   },
   pathPrefix: `/owc2020`,
   plugins: [
